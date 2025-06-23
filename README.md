@@ -367,20 +367,6 @@ pip install -e .
 - [ ] Alternative data sources
 - [ ] Mobile app interface
 
----
 
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🙏 Acknowledgments
-
-- **Roytsai27** for the original Financial-GraphAttention inspiration
-- **PyTorch Geometric** team for the amazing graph neural network library
-- **Financial community** for continuous feedback and suggestions
-
----
 
 
