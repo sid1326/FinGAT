@@ -266,7 +266,7 @@ DIRECTION_WEIGHT = 0.3        # Direction prediction importance
 
 ---
 
-## 🆚 Comparison with Roytsai27/Financial-GraphAttention
+## 🆚 Comparison with existing approaches
 
 <table>
 <tr>
